@@ -1,2 +1,3 @@
-# Vision2CNNsample
-Lecture Series 
+# 総合コミュニケーション用ノート群
+
+UEC 学域1年次の講義，「総合コミュニケーション」に用いる資料を Python で提供する．
